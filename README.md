@@ -1,8 +1,11 @@
 Coding Question Instructions
 
 To view and complete the coding challenge,
-Navigate to question.me file
+
+Navigate to question.me file,
+
 copy the question
+
 go back to your READ.md 
 
 
